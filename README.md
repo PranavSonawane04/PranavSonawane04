@@ -1,10 +1,10 @@
-# Hi 👋, I'm Pranav Sonawane
+# 👋 Hi, I'm Pranav Sonawane
 
-### Java Full Stack Developer | Software Developer | B.E. Computer Engineering
+### Java Full Stack Developer | Software Developer | Computer Engineering Graduate
 
-I am a passionate **Java Full Stack Developer** and Computer Engineering graduate with hands-on experience in building web applications using **Java, Spring Boot, React.js, Node.js, REST APIs, and MySQL**.
+I’m a **Java Full Stack Developer** with hands-on experience building scalable, end-to-end web applications using **Java, Spring Boot, React.js, Node.js, and RESTful APIs**.
 
-I enjoy solving programming problems, developing real-world applications, and learning new technologies.
+I enjoy solving real-world problems, developing secure applications, and continuously improving my skills in software development.
 
 ---
 
@@ -12,114 +12,189 @@ I enjoy solving programming problems, developing real-world applications, and le
 
 - 🎓 B.E. Computer Engineering — 2026
 - 💻 Java Full Stack Developer
-- 🌱 Currently improving my skills in **Java, Spring Boot, React.js & DSA**
-- 🔭 Working on **full-stack and AI-powered projects**
-- 🧠 Interested in **Software Development, Backend Development & AI/ML**
-- 📍 Based in Maharashtra, India
-- 💼 Open to **Software Developer / Java Full Stack Developer** opportunities
+- ☕ Strong foundation in Java, OOP & DSA
+- 🌐 Full Stack Web Development
+- 🔐 Interested in Secure Application Development
+- 🗄️ MySQL & PostgreSQL
+- 🔄 Agile/Scrum & Git/GitHub
+- 📍 Pune, Maharashtra, India
+- 💼 Open to Software Developer / Java Full Stack opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frameworks & Technologies
 
-### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Database
+### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌾 CropConnect-AI – Sustainable Agriculture
+## 🏢 SmartGate OS
 
-AI-powered farmer marketplace designed to help farmers with:
+### Enterprise Employee & Gate Management System
 
-- 🌱 Crop disease detection
-- 📊 Crop price prediction
-- 💰 Market analytics
-- 🌦️ Weather analytics
-- 🧪 Fertilizer recommendation
-- 🤖 RAG-based AI chatbot
-- 🛒 Farmer-to-farmer marketplace
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `JWT` `RBAC`
 
-**Technologies:**  
-React.js, TypeScript, Flask, Python, MongoDB, TensorFlow, MobileNet, LSTM, RAG, REST API
+SmartGate OS is a full-stack enterprise platform for employee access and gate management.
 
----
+### Key Features
 
-### 🏢 SmartGate OS – Employee & Gate Management System
-
-Enterprise employee and gate management platform with:
-
-- Role-Based Access Control
-- Employee leave management
-- Exit permission workflow
-- QR-based gate pass verification
-- Visitor tracking
-- Emergency roll call
-- Real-time notifications
-- Audit logging
-
-**Technologies:**  
-React.js, Node.js, Express.js, PostgreSQL, Prisma, JWT, WebSockets
+- 🔐 Role-Based Access Control across 6 user roles
+- 👥 Dynamic and granular authorization
+- 📝 Employee leave management
+- 🚪 Exit-permission workflows
+- 📱 QR-code-based gate-pass verification
+- 👤 Visitor tracking
+- 📋 Audit logging
+- 🛡️ Secure enterprise workflows
 
 ---
 
-### 🏠 Student PG Management System
+## 🧠 Candidate Assessment Platform
 
-A web-based system for managing PG/hostel operations.
+### Personality Assessment & Candidate Evaluation System
 
-**Features:**
+**Tech Stack:**  
+`Java` `Spring Boot` `JSP` `Servlet` `JDBC` `HTML` `CSS`
 
-- Student management
-- Property management
-- Room management
-- Room allocation
-- Rent/payment management
-- Complaint management
-- Visitor management
-- Admin dashboard
+A full-stack platform designed to evaluate candidate personality traits using the **OCEAN psychological model**.
 
-**Technologies:**  
-Java, Spring MVC, JDBC, MySQL, JSP, Tomcat
+### Key Features
+
+- 📝 Interactive candidate assessments
+- 🧠 OCEAN personality assessment
+- 📊 Candidate result analysis
+- 📈 Admin evaluation dashboard
+- 📋 Candidate reporting
+- 🔗 JDBC database integration
 
 ---
 
-## 📚 Currently Learning
+## 📝 Online Exam Portal
+
+### Online Examination System
+
+**Tech Stack:**  
+`Java` `Servlets` `JDBC` `MySQL` `Bootstrap`
+
+Developed an online examination portal during my software development internship.
+
+### Key Features
+
+- 📚 Online assessments
+- 📝 Question management
+- ⏱️ Assessment delivery
+- 🗄️ MySQL database integration
+- 🔐 Secure backend APIs
+- 📱 Responsive Bootstrap interface
+
+---
+
+# 💼 Experience
+
+## Jr. Software Developer Intern
+
+### Creazione Software — Pune
+
+**Jan 2026 – Jul 2026**
+
+- Developed and deployed an Online Exam Portal using Java Servlets, JDBC and MySQL.
+- Designed normalized MySQL database schemas.
+- Implemented JDBC prepared statements for secure database operations.
+- Implemented password hashing and secure coding practices.
+- Worked with GitHub pull requests and peer code reviews.
+- Participated in Agile sprint cycles.
+
+---
+
+## Full Stack Web Development Intern
+
+### NITS IT Training & Solution — Nashik
+
+**2025**
+
+- Developed responsive full-stack web applications.
+- Worked with HTML, CSS, JavaScript, PHP and MySQL.
+- Developed a crop-price prediction and recommendation system.
+- Optimized SQL queries for better data retrieval.
+- Contributed to design, testing and deployment.
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering — Computer Engineering
+
+**JES's S.N.D College of Engineering, Yeola**
+
+2022 – 2026
+
+**CGPA: 8.00**
+
+---
+
+### Higher Secondary Certificate
+
+**Enzo Chem College, Yeola**
+
+2020 – 2022
+
+**Percentage: 79.83%**
+
+---
+
+# 🏆 Certifications & Achievements
+
+### Certifications
+
+- ☕ Java Programming Certification
+- 🌐 Full Stack Web Development
+- 📊 Data Science — Gyanteerth Pvt. Ltd.
+
+### Hackathons & Competitions
+
+- 🚀 NASA Space Apps Challenge — International
+- 🔐 CTF 7-Hack-X — MIT-WPU Cybersecurity Competition
+
+---
+
+# 📚 Currently Learning
 
 ```text
 Java
-   ↓
-Spring Framework
    ↓
 Spring Boot
    ↓
 REST APIs
    ↓
 React.js
+   ↓
+Database Design
    ↓
 Full Stack Development
